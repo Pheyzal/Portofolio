@@ -1,4 +1,3 @@
-<img width="905" alt="image" src="https://github.com/Pheyzal/Portofolio/assets/165474476/6e796eb6-114c-4d55-b1d6-afb7c564e360"># PortfolioWebsite
 Welcome to my portfolio Website! This project showcases my skills 
 
 ## Introduction
